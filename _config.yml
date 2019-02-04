@@ -1,3 +1,5 @@
 theme: jekyll-theme-modernist
+
+title : Arch Linux for RISC-V
 github:
   repository_url: https://github.com/archlinux-riscv
